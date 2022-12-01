@@ -80,7 +80,7 @@ CubeDivSpanBottom.style.transform = 'rotateX(90deg) translateZ(-150px)'
 
 
 })
-
+let xx = 0;
 
 setTimeout(()=>{
     CubeDivSpan[0].addEventListener('mouseover', ()=>{
